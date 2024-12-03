@@ -1,0 +1,14 @@
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\bin\Debug\net8.0\LinqMethods.exe
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\bin\Debug\net8.0\LinqMethods.deps.json
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\bin\Debug\net8.0\LinqMethods.runtimeconfig.json
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\bin\Debug\net8.0\LinqMethods.dll
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\bin\Debug\net8.0\LinqMethods.pdb
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\obj\Debug\net8.0\LinqMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\obj\Debug\net8.0\LinqMethods.AssemblyInfoInputs.cache
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\obj\Debug\net8.0\LinqMethods.AssemblyInfo.cs
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\obj\Debug\net8.0\LinqMethods.csproj.CoreCompileInputs.cache
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\obj\Debug\net8.0\LinqMethods.dll
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\obj\Debug\net8.0\refint\LinqMethods.dll
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\obj\Debug\net8.0\LinqMethods.pdb
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\obj\Debug\net8.0\LinqMethods.genruntimeconfig.cache
+C:\Users\saifa\source\repos\LinqMethods\LinqMethods\obj\Debug\net8.0\ref\LinqMethods.dll
